@@ -63,7 +63,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-command$$
-  - '&mo 2 RIGHT_SHIFT'
+  - CHAI 2
   - $$mdi:backspace-reverse-outline$$
   CHAI 1:
   - {t: '`', s: '~'}
@@ -193,5 +193,5 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
