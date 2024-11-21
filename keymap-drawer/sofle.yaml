@@ -50,7 +50,7 @@ layers:
   - N
   - M
   - {t: ',', s: '['}
-  - {t: ',', s: '['}
+  - {t: ., s: ']'}
   - {t: /, s: '?'}
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
