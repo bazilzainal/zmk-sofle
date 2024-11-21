@@ -51,7 +51,7 @@
     nextPage: nextPage {
         compatible = "zmk,behavior-mod-morph";
         label = "NEXTPAGE";
-        bindings = <&kp COMMA>, <&kp LEFT_BRACKET>;
+        bindings = <&kp PERIOD>, <&kp RIGHT_BRACKET>;
 
         #binding-cells = <0>;
         mods = <(MOD_LSFT|MOD_LGUI)>;
