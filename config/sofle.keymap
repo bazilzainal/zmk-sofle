@@ -44,8 +44,8 @@
         bindings = <&kp COMMA>, <&kp LEFT_BRACKET>;
 
         #binding-cells = <0>;
-        mods = <(MOD_LSFT|MOD_LGUI)>;
-        keep-mods = <(MOD_LSFT|MOD_LGUI)>;
+        mods = <(MOD_LGUI)>;
+        keep-mods = <(MOD_LGUI)>;
     };
 
     nextPage: nextPage {
@@ -54,8 +54,8 @@
         bindings = <&kp PERIOD>, <&kp RIGHT_BRACKET>;
 
         #binding-cells = <0>;
-        mods = <(MOD_LSFT|MOD_LGUI)>;
-        keep-mods = <(MOD_LSFT|MOD_LGUI)>;
+        mods = <(MOD_LGUI)>;
+        keep-mods = <(MOD_LGUI)>;
     };
 
     keymap {
