@@ -57,7 +57,7 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:apple-keyboard-option$$
   - CHAI 1
-  - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-command$$'}
+  - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace-reverse-outline$$', h: '$$mdi:apple-keyboard-command$$'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', h: '$$mdi:apple-keyboard-command$$'}
